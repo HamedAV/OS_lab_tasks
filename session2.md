@@ -14,6 +14,6 @@
 
 تمرین امتیازی: تکه برنامه زیر چند بار Hello را چاپ می‌کند؟
 
-![Fork Image](fork.png)
+![Fork Image](Images/fork.png)
 
 
